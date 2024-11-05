@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ufiguina.github.io/KEe/sitemap_index.txt
+Sitemap: https://ufiguina.github.io/UTa/sitemap_index.txt
+Sitemap: https://ufiguina.github.io/eRu/sitemap_index.txt
+Sitemap: https://ufiguina.github.io/elD/sitemap_index.txt
